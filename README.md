@@ -13,7 +13,7 @@ The Language School GPT adopts an interactive and step-by-step approach to teach
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Immigrant](https://github.com/sourceduty/Accent_Simulator)
+[Accent Simulator](https://github.com/sourceduty/Accent_Simulator)
 <br>
 [Language Barriers](https://github.com/sourceduty/Language_Barriers)
 <br>
