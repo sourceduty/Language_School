@@ -9,6 +9,26 @@
 The Language School GPT adopts an interactive and step-by-step approach to teaching. It guides users through a structured process of learning, using multiple-choice questions and practical examples to reinforce concepts. The system is designed to be both flexible and personalized, adapting to the user's learning pace and preferences. By focusing on clarity and providing illustrative examples, this custom GPT makes complex language topics more accessible and enjoyable for learners of all levels.
 
 #
+
+| Rank | Language       | Language Difficulty | Translation Difficulty | Writing Difficulty | Easiest Translation Language |
+|------|----------------|---------------------|------------------------|--------------------|-----------------------------|
+| 1    | Spanish        | Easy                | Easy                   | Easy               | Portuguese                  |
+| 2    | English        | Easy                | Easy                   | Medium             | French                      |
+| 3    | French         | Medium              | Easy                   | Medium             | English                     |
+| 4    | Italian        | Medium              | Easy                   | Medium             | Spanish                     |
+| 5    | Portuguese     | Medium              | Medium                 | Medium             | Spanish                     |
+| 6    | German         | Medium              | Medium                 | Hard               | Dutch                       |
+| 7    | Dutch          | Medium              | Medium                 | Medium             | German                      |
+| 8    | Russian        | Hard                | Hard                   | Hard               | Ukrainian                   |
+| 9    | Japanese       | Very Hard           | Very Hard              | Very Hard          | Korean                      |
+| 10   | Korean         | Very Hard           | Very Hard              | Very Hard          | Japanese                    |
+| 11   | Arabic         | Very Hard           | Very Hard              | Very Hard          | Persian (Farsi)             |
+| 12   | Mandarin       | Very Hard           | Very Hard              | Very Hard          | Cantonese                   |
+| 13   | Hindi          | Medium              | Hard                   | Hard               | Urdu                        |
+| 14   | Bengali        | Medium              | Hard                   | Medium             | Hindi                       |
+| 15   | Turkish        | Medium              | Hard                   | Medium             | Azerbaijani                 |
+
+#
 ### Universal Language Tool
 
 Custom GPTs designed for language teaching are tailored AI models specifically created to assist learners in acquiring language skills. These models focus on a variety of language learning aspects, including grammar, vocabulary, pronunciation, and cultural nuances. They provide personalized support through interactive exercises, translations, sentence corrections, and conversation practice, adapting to the user’s proficiency level. By simulating realistic dialogues and offering contextual examples, these GPTs create an immersive learning environment that encourages active participation and engagement. Their primary goal is to make language learning accessible, enjoyable, and efficient, helping users progress at their own pace while maintaining motivation.
