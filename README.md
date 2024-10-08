@@ -47,6 +47,8 @@ This particular custom GPT, while specialized in language teaching, is more vers
 [Immigrant Adapter](https://github.com/sourceduty/Immigrant_Adapter)
 <br>
 [Programmer School](https://github.com/sourceduty/Programmer_School)
+<br>
+[New Language](https://github.com/sourceduty/New_Language)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
