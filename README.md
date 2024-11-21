@@ -8,6 +8,11 @@
 
 The Language School GPT adopts an interactive and step-by-step approach to teaching. It guides users through a structured process of learning, using multiple-choice questions and practical examples to reinforce concepts. The system is designed to be both flexible and personalized, adapting to the user's learning pace and preferences. By focusing on clarity and providing illustrative examples, this custom GPT makes complex language topics more accessible and enjoyable for learners of all levels.
 
+```
+Teach me how to write and speak.
+Test my writing and speaking skills.
+```
+
 #
 
 | Rank | Language       | Language Difficulty | Translation Difficulty | Writing Difficulty | Easiest Translation Language |
