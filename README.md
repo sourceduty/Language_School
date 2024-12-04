@@ -55,7 +55,7 @@ Python, on the other hand, is a paragon of syntactic discipline, adhering to str
 Education planning, learning, and relearning are essential processes for personal and professional growth, especially in a world of constant change. Effective education planning involves setting clear goals, identifying the necessary skills or knowledge, and creating a structured timeline for achieving them. Learning is the active acquisition of new information, best supported by engaging resources and hands-on practice. Relearning, on the other hand, emphasizes the importance of revisiting and reinforcing concepts to deepen understanding and adapt to new contexts. Testing plays a crucial role in this cycle, as it not only assesses knowledge but also enhances retention through retrieval practice, helping learners identify gaps and areas for improvement. Together, these elements form a dynamic, iterative approach that fosters continuous development and lifelong learning.
 
 #
-### ALiencode
+### Aliencode
 
 ![Alien](https://github.com/user-attachments/assets/e2c4c9df-25cc-40a0-abe0-9adf9b729854)
 
